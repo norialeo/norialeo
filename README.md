@@ -106,7 +106,7 @@ Nascido e criado em Minas Gerais, Belo Horizonte cultivo diversas paixões além
 
 <div>
 
-<img height="20" alt="SVG" src="https://norialeo.github.io/image/graphic.svg?raw=true"/>GitHub Stats:
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg"/> GitHub Stats:
 
 <div align="center">
 <!--
