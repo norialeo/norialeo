@@ -148,9 +148,9 @@ Nascido e criado em Minas Gerais, Belo Horizonte cultivo diversas paixões além
  <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@norialeo">WakaTime</a></td>
 </tr> 
 <tr>
-<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=norialeo&custom_title=WakaTime+Stats&card_width=700&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22" alt="WakaTime Stats" width="700" loading="lazy"/></td>
+<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=norialeo&custom_title=WakaTime+Stats&card_width=700&line_height=45&layout=compact&display_format=time&disable_animations=false&langs_count=22" alt="WakaTime Stats" width="700" loading="lazy"/></td>
 <td>
-<img src="https://helio-github-stats.vercel.app/api/wakatime?username=norialeo&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=12" alt="WakaTime Stats" width="700" loading="lazy"/>
+<img src="https://helio-github-stats.vercel.app/api/wakatime?username=norialeo&custom_title=WakaTime+Stats&card_width=700&line_height=45&layout=default&display_format=time&disable_animations=false&langs_count=12" alt="WakaTime Stats" width="700" loading="lazy"/>
 </td>
 </tr>
 </table>
@@ -161,14 +161,14 @@ Nascido e criado em Minas Gerais, Belo Horizonte cultivo diversas paixões além
 <tr>
 <td>
 <!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norialeo&theme=dark&locale=pt-br&langs_count=7"/> -->
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=norialeo&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="700" loading="lazy" />
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=norialeo&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=550&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="700" loading="lazy" />
 </td>
 <td>
 <!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norialeo&layout=pie&theme=dark&locale=pt-br"/> -->
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=norialeo&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="700" loading="lazy" />
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=norialeo&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=500&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="700" loading="lazy" />
 </td>
 <td>
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=norialeo&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="700" loading="lazy" />
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=norialeo&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=500&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="700" loading="lazy" />
 </td>
 </tr>
 <tr>
@@ -198,14 +198,14 @@ Nascido e criado em Minas Gerais, Belo Horizonte cultivo diversas paixões além
 </tr> 
 <tr>
 <td>
-<img alt="GitHub Commits" width="500px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=norialeo&theme=github_dark&utcOffset=8"/>
+<img alt="GitHub Commits" width="700px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=norialeo&theme=github_dark&utcOffset=8"/>
 </td>
 <td>
-<img alt="GitHub Commits" width="500px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=norialeo&theme=github_dark"/>
+<img alt="GitHub Commits" width="700px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=norialeo&theme=github_dark"/>
 </td>
 <td>
 <!-- <img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=norialeo&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/> -->
-<img src="https://github-streak-stats-ruby.vercel.app/?user=norialeo&theme=dark&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de norialeo" width="700" height="194" loading="lazy" />
+<img src="https://github-streak-stats-ruby.vercel.app/?user=norialeo&theme=dark&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de norialeo" width="700" height="400" loading="lazy" />
 </td>
 </tr>
 <tr>
@@ -307,14 +307,14 @@ Nascido e criado em Minas Gerais, Belo Horizonte cultivo diversas paixões além
 </tr> 
 <tr>
 <td>
-<img alt="Spotify" width="500px" height="570px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ifbc6hrwlkzlabjl9jqy8dg3j&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+<img alt="Spotify" width="700px" height="770px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ifbc6hrwlkzlabjl9jqy8dg3j&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
 </td>
 <td>
-<img alt="Spotify list" width="500px" height="570px" src="https://spotify-recently-played-readme.vercel.app/api?user=ifbc6hrwlkzlabjl9jqy8dg3j&count=10"/>
+<img alt="Spotify list" width="700px" height="770px" src="https://spotify-recently-played-readme.vercel.app/api?user=ifbc6hrwlkzlabjl9jqy8dg3j&count=10"/>
 </td>
 <td>
 <!-- <a href="https://twitter.com/Leonoria" target="_blank"><img width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=Leonoria"/></a> -->
-<a href="https://www.last.fm/pt/user/Leonoria" target="_blank"><img width="700px" height="570px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=Leonoria&width=400"/></a>
+<a href="https://www.last.fm/pt/user/Leonoria" target="_blank"><img width="700px" height="770px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=Leonoria&width=400"/></a>
 </td>
 </tr>
 <tr>
