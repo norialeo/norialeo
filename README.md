@@ -42,8 +42,8 @@
 <h3>🤙​ Sobre mim</h3>
 
 <div align="justify"> Olá! Meu nome é Leonardo Noria e sou estudante de Engenharia de Software na PUC Minas.
-Desde que iniciei minha jornada na tecnologia, venho me dedicando com afinco ao desenvolvimento de sistemas que sejam funcionais, bem estruturados e que gerem impacto positivo no dia a dia dos usuários.
-Possuo conhecimento da lingua ingles como segunda língua
+Desde que iniciei minha jornada na tecnologia, venho me dedicando com foco ao desenvolvimento de sistemas que sejam funcionais, bem estruturados e que gerem impacto positivo no dia a dia dos usuários.
+Possuo conhecimento da lingua inglesa como segunda língua
 
 Atualmente estou no 1º período e venho consolidando meus conhecimentos tanto no back-end quanto no front-end, com especial interesse por arquitetura de software, usabilidade e acessibilidade. Minha stack principal envolve Python, HTML, CSS, JavaScript e Bootstrap, além da utilização de ferramentas como VS Code, e GitHub. T
 
