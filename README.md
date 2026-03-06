@@ -312,10 +312,6 @@ Nascido e criado em Minas Gerais, Belo Horizonte cultivo diversas paixões além
 <td>
 <img alt="Spotify list" width="700px" height="770px" src="https://spotify-recently-played-readme.vercel.app/api?user=ifbc6hrwlkzlabjl9jqy8dg3j&count=10"/>
 </td>
-<td>
-<!-- <a href="https://twitter.com/Leonoria" target="_blank"><img width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=Leonoria"/></a> -->
-<a href="https://www.last.fm/pt/user/Leonoria" target="_blank"><img width="420px" height="420px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=Leonoria&width=700"/></a>
-</td>
 </tr>
 <tr>
  <td align="center" colspan="3"></td>
