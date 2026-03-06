@@ -43,11 +43,11 @@
 
 <div align="justify"> Olá! Meu nome é Leonardo Noria e sou estudante de Engenharia de Software na PUC Minas.
 Desde que iniciei minha jornada na tecnologia, venho me dedicando com foco ao desenvolvimento de sistemas que sejam funcionais, bem estruturados e que gerem impacto positivo no dia a dia dos usuários.
-Possuo conhecimento da lingua inglesa como segunda língua
+Possuo conhecimento da lingua inglesa como segunda língua.
 
 Atualmente estou no 1º período e venho consolidando meus conhecimentos tanto no back-end quanto no front-end, com especial interesse por arquitetura de software, usabilidade e acessibilidade. Minha stack principal envolve Python, HTML, CSS, JavaScript e Bootstrap, além da utilização de ferramentas como VS Code, e GitHub.
 
-Tenho experiência prática no desenvolvimento de sistemas completos através dos meus trabalhos interdisciplinares e alguns projetos de software
+Tenho experiência prática no desenvolvimento de sistemas completos através dos meus trabalhos interdisciplinares e alguns projetos de software.
 
 Busco constantemente evoluir, tanto no aspecto prático quanto teórico, por meio de cursos extracurriculares, e exercícios de programação.
 
@@ -63,7 +63,7 @@ Busco constantemente evoluir, tanto no aspecto prático quanto teórico, por mei
   <tr>
     <td>
       <div align="justify">
-Nascido e criado em Minas Gerais, Belo Horizonte cultivo diversas paixões além do mundo da tecnologia. Gosto de aproveitar meu tempo com jogos online alem de  atividades físicas e esportes. Nas horas vagas, também me divirto assistindo filmes e séries e como todo brasileiro tenho uma paixão por futebol e torço para o Cruzeiro Esporte Clube, time que acompanho com orgulho desde a infância.
+Nascido e criado em Minas Gerais, Belo Horizonte. Cultivo diversas paixões além do mundo da tecnologia. Gosto de aproveitar meu tempo com jogos online alem de  atividades físicas e esportes. Nas horas vagas, também me divirto assistindo filmes e séries e como todo brasileiro tenho uma paixão por futebol e torço para o Cruzeiro Esporte Clube, time que acompanho com orgulho desde a infância.
       </div>
     </td>
   </tr>
