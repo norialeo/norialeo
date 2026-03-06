@@ -327,6 +327,31 @@ Nascido e criado em Minas Gerais, Belo Horizonte cultivo diversas paixões além
 
 -----
 
+</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
+
+<div align="center">
+ <table>
+ <tr>
+  <td align="center" colspan="2"></td>
+ </tr> 
+ <tr>
+ <td>
+ <a href="mailto:leonoria09@gmail.com@gmail.com" target="_blank"><img align="center" width="400px" height="120px" src="https://joaopauloaramuni.github.io/image/githubfooter2.png?raw=true" alt="github-footer2"/></a>
+ </td>
+ <td>
+ <a href="https://github.com/joaopauloaramuni" target="_blank"><img align="center" width="400px" height="120px" src="https://joaopauloaramuni.github.io/image/githubfooter1.png?raw=true" alt="github-footer1"/></a>
+ </td>
+ </tr>
+ <tr>
+  <td align="center" colspan="2"></td>
+ </tr> 
+ </table>
+</div>
+
+-----
+
 <!--
 <div>
 <img align="center" alt="Footer" width="1200px" height="20px" src="https://joaopauloaramuni.github.io/image/footer-gray.gif?raw=true"/>
