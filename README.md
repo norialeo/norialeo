@@ -106,7 +106,7 @@ Nascido e criado em Minas Gerais, Belo Horizonte cultivo diversas paixões além
 
 <div>
 
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg"/> GitHub Stats:
+<img height="30" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg"/> GitHub Stats:
 
 <div align="center">
 <!--
