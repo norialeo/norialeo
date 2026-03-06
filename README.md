@@ -148,9 +148,9 @@ Nascido e criado em Minas Gerais, Belo Horizonte cultivo diversas paixões além
  <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@norialeo">WakaTime</a></td>
 </tr> 
 <tr>
-<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=norialeo&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22" alt="WakaTime Stats" width="466" loading="lazy"/></td>
+<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=norialeo&custom_title=WakaTime+Stats&card_width=700&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22" alt="WakaTime Stats" width="700" loading="lazy"/></td>
 <td>
-<img src="https://helio-github-stats.vercel.app/api/wakatime?username=norialeo&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=12" alt="WakaTime Stats" width="466" loading="lazy"/>
+<img src="https://helio-github-stats.vercel.app/api/wakatime?username=norialeo&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=12" alt="WakaTime Stats" width="700" loading="lazy"/>
 </td>
 </tr>
 </table>
@@ -161,14 +161,14 @@ Nascido e criado em Minas Gerais, Belo Horizonte cultivo diversas paixões além
 <tr>
 <td>
 <!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norialeo&theme=dark&locale=pt-br&langs_count=7"/> -->
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=norialeo&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="350" loading="lazy" />
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=norialeo&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="700" loading="lazy" />
 </td>
 <td>
 <!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norialeo&layout=pie&theme=dark&locale=pt-br"/> -->
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=norialeo&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=norialeo&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="700" loading="lazy" />
 </td>
 <td>
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=norialeo&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=norialeo&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="700" loading="lazy" />
 </td>
 </tr>
 <tr>
@@ -184,13 +184,13 @@ Nascido e criado em Minas Gerais, Belo Horizonte cultivo diversas paixões além
 <td>
 <!-- <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=norialeo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
 <img src="https://helio-github-stats.vercel.app/api?username=norialeo&custom_title=GitHub+Stats&theme=dark&title_color=4c71f2&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=percentile&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" loading="lazy" /> -->
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=norialeo&theme=github_dark"/>
+<img alt="GitHub Stats" width="500px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=norialeo&theme=github_dark"/>
 </td>
 <td>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=norialeo&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="500px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=norialeo&theme=github_dark"/>
 </td>
 <td>
-<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=norialeo&theme=github_dark"/>
+<img alt="GitHub Details" width="620px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=norialeo&theme=github_dark"/>
 </td>
 </tr>
 <tr>
@@ -198,14 +198,14 @@ Nascido e criado em Minas Gerais, Belo Horizonte cultivo diversas paixões além
 </tr> 
 <tr>
 <td>
-<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=norialeo&theme=github_dark&utcOffset=8"/>
+<img alt="GitHub Commits" width="500px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=norialeo&theme=github_dark&utcOffset=8"/>
 </td>
 <td>
-<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=norialeo&theme=github_dark"/>
+<img alt="GitHub Commits" width="500px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=norialeo&theme=github_dark"/>
 </td>
 <td>
 <!-- <img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=norialeo&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/> -->
-<img src="https://github-streak-stats-ruby.vercel.app/?user=norialeo&theme=dark&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de norialeo" width="466" height="194" loading="lazy" />
+<img src="https://github-streak-stats-ruby.vercel.app/?user=norialeo&theme=dark&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de norialeo" width="700" height="194" loading="lazy" />
 </td>
 </tr>
 <tr>
@@ -229,7 +229,7 @@ Nascido e criado em Minas Gerais, Belo Horizonte cultivo diversas paixões além
 
 <div>
 <details>
-<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>&nbsp;Veja mais
+<summary><img height="30" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>&nbsp;Veja mais
 </summary>
 <br />
 <div align="center">
@@ -239,34 +239,34 @@ Nascido e criado em Minas Gerais, Belo Horizonte cultivo diversas paixões além
 </tr>
 <tr>
 <td>
-<img width="400px" src="https://norialeo.github.io/metrics.classic.svg" alt="Metrics">
+<img width="700px" src="https://norialeo.github.io/metrics.classic.svg" alt="Metrics">
 </td>
 <td>
-<img width="400px" src="https://norialeo.github.io/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
-</td>
-</tr>
-<tr>
-<td>
-<img width="400px" src="https://norialeo.github.io/metrics.plugin.stars.svg" alt="Metrics">
-</td>
-<td>
-<img width="400px" src="https://norialeo.github.io/metrics.plugin.activity.svg" alt="Metrics">
+<img width="700px" src="https://norialeo.github.io/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
 </td>
 </tr>
 <tr>
 <td>
-<img width="400px" src="https://norialeo.github.io/metrics.plugin.people.followers.svg" alt="Metrics">
+<img width="700px" src="https://norialeo.github.io/metrics.plugin.stars.svg" alt="Metrics">
 </td>
 <td>
-<img width="400px" src="https://norialeo.github.io/metrics.plugin.stargazers.svg" alt="Metrics">
+<img width="700px" src="https://norialeo.github.io/metrics.plugin.activity.svg" alt="Metrics">
 </td>
 </tr>
 <tr>
 <td>
-<img width="400px" src="https://norialeo.github.io/metrics.plugin.topics.icons.svg" alt="Metrics">
+<img width="700px" src="https://norialeo.github.io/metrics.plugin.people.followers.svg" alt="Metrics">
 </td>
 <td>
-<img width="400px" src="https://norialeo.github.io/metrics.terminal.svg" alt="Metrics">
+<img width="700px" src="https://norialeo.github.io/metrics.plugin.stargazers.svg" alt="Metrics">
+</td>
+</tr>
+<tr>
+<td>
+<img width="700px" src="https://norialeo.github.io/metrics.plugin.topics.icons.svg" alt="Metrics">
+</td>
+<td>
+<img width="700px" src="https://norialeo.github.io/metrics.terminal.svg" alt="Metrics">
 </td>
 </tr>
 <tr>
@@ -295,7 +295,7 @@ Nascido e criado em Minas Gerais, Belo Horizonte cultivo diversas paixões além
 
 <div>
 <details>
-<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?raw=true"/> Leo's Spotify Data</summary>
+<summary><img height="30" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?raw=true"/> Leo's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=ifbc6hrwlkzlabjl9jqy8dg3j" alt="Data Card for Spotify"/>
 </details>
 </div>
@@ -324,3 +324,15 @@ Nascido e criado em Minas Gerais, Belo Horizonte cultivo diversas paixões além
 </div>
 
 <div>
+
+-----
+
+<!--
+<div>
+<img align="center" alt="Footer" width="1200px" height="20px" src="https://joaopauloaramuni.github.io/image/footer-gray.gif?raw=true"/>
+</div>
+-->
+
+<img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B0B0B0&section=footer"/>
+
+<!-- Obrigado pela visita! -->
