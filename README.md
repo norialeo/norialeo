@@ -12,17 +12,17 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/norialeo" target="_blank"><img src="https://norialeo.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/norialeo" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:leonoria09@gmail.com" target="_blank"><img src="https://norialeo.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:leonoria09@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531998531810" target="_blank"><img src="https://norialeo.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531998531810" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/nria.leo/" target="_blank"><img src="https://norialeo.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/nria.leo/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/leonardonoria/" target="_blank"><img src="https://norialeo.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/leonardonoria/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://discordapp.com/users/273844782948810753" target="_blank"><img src="https://norialeo.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://discordapp.com/users/273844782948810753" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
@@ -72,7 +72,7 @@ Nascido e criado em Minas Gerais, Belo Horizonte cultivo diversas paixões além
 -----
 <div>
 
-<img height="20" alt="SVG" src="https://norialeo.github.io/image/skills.svg?raw=true"/>&nbsp;Linguagens e ferramentas:
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp;Linguagens e ferramentas:
 
 <code>![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)</a></code>
 &nbsp;
@@ -106,7 +106,7 @@ Nascido e criado em Minas Gerais, Belo Horizonte cultivo diversas paixões além
 
 <div>
 
-<img height="30" alt="SVG" src="https://norialeo.github.io/image/graphic.svg"/> GitHub Stats:
+<img height="30" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg"/> GitHub Stats:
 
 <div align="center">
 <!--
@@ -218,7 +218,7 @@ Nascido e criado em Minas Gerais, Belo Horizonte cultivo diversas paixões além
  <td align="center"></td>
 </tr>
 <tr>
- <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://norialeo.github.io/image/github-user-contribution.svg?raw=true"/></a></td>
+ <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://joaopauloaramuni.github.io/image/github-user-contribution.svg?raw=true"/></a></td>
 </tr>
 <tr>
  <td align="center"></td>
@@ -229,7 +229,7 @@ Nascido e criado em Minas Gerais, Belo Horizonte cultivo diversas paixões além
 
 <div>
 <details>
-<summary><img height="20" alt="SVG" src="https://norialeo.github.io/image/graphic.svg?raw=true"/>&nbsp;Veja mais
+<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>&nbsp;Veja mais
 </summary>
 <br />
 <div align="center">
