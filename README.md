@@ -148,9 +148,9 @@ Nascido e criado em Minas Gerais, Belo Horizonte cultivo diversas paixões além
  <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@norialeo">WakaTime</a></td>
 </tr> 
 <tr>
-<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=norialeo&custom_title=WakaTime+Stats&card_width=700&line_height=45&layout=compact&display_format=time&disable_animations=false&langs_count=22" alt="WakaTime Stats" width="700" loading="lazy"/></td>
+<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=norialeo&custom_title=WakaTime+Stats&card_width=420&line_height=45&layout=compact&display_format=time&disable_animations=false&langs_count=22" alt="WakaTime Stats" width="420" loading="lazy"/></td>
 <td>
-<img src="https://helio-github-stats.vercel.app/api/wakatime?username=norialeo&custom_title=WakaTime+Stats&card_width=700&line_height=45&layout=default&display_format=time&disable_animations=false&langs_count=12" alt="WakaTime Stats" width="700" loading="lazy"/>
+<img src="https://helio-github-stats.vercel.app/api/wakatime?username=norialeo&custom_title=WakaTime+Stats&card_width=420&line_height=45&layout=default&display_format=time&disable_animations=false&langs_count=12" alt="WakaTime Stats" width="420" loading="lazy"/>
 </td>
 </tr>
 </table>
@@ -314,7 +314,7 @@ Nascido e criado em Minas Gerais, Belo Horizonte cultivo diversas paixões além
 </td>
 <td>
 <!-- <a href="https://twitter.com/Leonoria" target="_blank"><img width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=Leonoria"/></a> -->
-<a href="https://www.last.fm/pt/user/Leonoria" target="_blank"><img width="700px" height="770px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=Leonoria&width=700"/></a>
+<a href="https://www.last.fm/pt/user/Leonoria" target="_blank"><img width="420px" height="420px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=Leonoria&width=700"/></a>
 </td>
 </tr>
 <tr>
