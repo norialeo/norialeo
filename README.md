@@ -307,10 +307,10 @@ Nascido e criado em Minas Gerais, Belo Horizonte cultivo diversas paixões além
 </tr> 
 <tr>
 <td>
-<img alt="Spotify" width="700px" height="770px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ifbc6hrwlkzlabjl9jqy8dg3j&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+<img alt="Spotify" width="420px" height="420px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ifbc6hrwlkzlabjl9jqy8dg3j&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
 </td>
 <td>
-<img alt="Spotify list" width="700px" height="770px" src="https://spotify-recently-played-readme.vercel.app/api?user=ifbc6hrwlkzlabjl9jqy8dg3j&count=10"/>
+<img alt="Spotify list" width="420px" height="420px" src="https://spotify-recently-played-readme.vercel.app/api?user=ifbc6hrwlkzlabjl9jqy8dg3j&count=10"/>
 </td>
 </tr>
 <tr>
