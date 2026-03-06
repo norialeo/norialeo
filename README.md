@@ -338,9 +338,6 @@ Nascido e criado em Minas Gerais, Belo Horizonte cultivo diversas paixões além
  </tr> 
  <tr>
  <td>
- <a href="mailto:leonoria09@gmail.com@gmail.com" target="_blank"><img align="center" width="400px" height="120px" src="https://joaopauloaramuni.github.io/image/githubfooter2.png?raw=true" alt="github-footer2"/></a>
- </td>
- <td>
  <a href="https://github.com/joaopauloaramuni" target="_blank"><img align="center" width="400px" height="120px" src="https://joaopauloaramuni.github.io/image/githubfooter1.png?raw=true" alt="github-footer1"/></a>
  </td>
  </tr>
