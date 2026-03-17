@@ -184,13 +184,13 @@ Nascido e criado em Minas Gerais, Belo Horizonte. Cultivo diversas paixões alé
 <td>
 <!-- <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=norialeo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
 <img src="https://helio-github-stats.vercel.app/api?username=norialeo&custom_title=GitHub+Stats&theme=dark&title_color=4c71f2&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=percentile&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" loading="lazy" /> -->
-<img alt="GitHub Stats" width="500px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=norialeo&theme=github_dark"/>
+<img alt="GitHub Stats" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=norialeo&theme=github_dark"/>
 </td>
 <td>
-<img alt="GitHub Top Langs" width="500px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=norialeo&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=norialeo&theme=github_dark"/>
 </td>
 <td>
-<img alt="GitHub Details" width="620px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=norialeo&theme=github_dark"/>
+<img alt="GitHub Details" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=norialeo&theme=github_dark"/>
 </td>
 </tr>
 <tr>
@@ -198,14 +198,14 @@ Nascido e criado em Minas Gerais, Belo Horizonte. Cultivo diversas paixões alé
 </tr> 
 <tr>
 <td>
-<img alt="GitHub Commits" width="700px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=norialeo&theme=github_dark&utcOffset=8"/>
+<img alt="GitHub Commits" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=norialeo&theme=github_dark&utcOffset=8"/>
 </td>
 <td>
-<img alt="GitHub Commits" width="700px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=norialeo&theme=github_dark"/>
+<img alt="GitHub Commits" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=norialeo&theme=github_dark"/>
 </td>
 <td>
 <!-- <img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=norialeo&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/> -->
-<img src="https://github-streak-stats-ruby.vercel.app/?user=norialeo&theme=dark&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de norialeo" width="700" height="400" loading="lazy" />
+<img src="https://github-streak-stats-ruby.vercel.app/?user=norialeo&theme=dark&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de norialeo" width="300" height="300" loading="lazy" />
 </td>
 </tr>
 <tr>
