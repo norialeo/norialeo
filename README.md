@@ -161,14 +161,14 @@ Nascido e criado em Minas Gerais, Belo Horizonte. Cultivo diversas paixões alé
 <tr>
 <td>
 <!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norialeo&theme=dark&locale=pt-br&langs_count=7"/> -->
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=norialeo&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=550&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="700" loading="lazy" />
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=norialeo&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="350" loading="lazy" />
 </td>
 <td>
 <!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norialeo&layout=pie&theme=dark&locale=pt-br"/> -->
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=norialeo&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=500&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="700" loading="lazy" />
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=norialeo&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="350" loading="lazy" />
 </td>
 <td>
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=norialeo&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=500&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="700" loading="lazy" />
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=norialeo&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="350" loading="lazy" />
 </td>
 </tr>
 <tr>
