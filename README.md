@@ -45,7 +45,7 @@
 Desde que iniciei minha carreira na tecnologia, venho me dedicando com foco ao desenvolvimento de sistemas que sejam funcionais, bem estruturados e que gerem impacto positivo no dia a dia dos usuários.
 Possuo conhecimento da lingua inglesa como segunda língua.
 <p></p>
-<p>Atualmente estou no 1º período e venho consolidando meus conhecimentos tanto no back-end quanto no front-end, com especial interesse por automação de tarefas, criação de chatbots com IAs e machine learning. Minha stack principal envolve Python, além da utilização de bibliotecas como pytorch, pyautogui, pandas, importação de APIs e GitHub.</p>
+<p>Atualmente estou no 2º período e venho consolidando meus conhecimentos tanto no back-end quanto no front-end, com especial interesse por automação de tarefas, criação de chatbots com IAs e machine learning. Minha stack principal envolve Python, além da utilização de bibliotecas como pytorch, pyautogui, pandas, importação de APIs e GitHub.</p>
 
 Tenho experiência prática no desenvolvimento de sistemas completos através dos meus trabalhos interdisciplinares e alguns projetos de software.
 
